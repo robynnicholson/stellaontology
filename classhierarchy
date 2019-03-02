@@ -1,1 +1,13 @@
 *Class Hierarchy
+Person
+  CastMember
+    GuestActor
+    MainActor
+  CrewMember
+    Creator
+    Writer
+    Director
+    Editor
+Season One
+Episode
+  
